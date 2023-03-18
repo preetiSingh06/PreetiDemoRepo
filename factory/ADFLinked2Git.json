@@ -1,0 +1,9 @@
+{
+	"name": "ADFLinked2Git",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f9cf181-a1ea-42c8-a10c-0939989a46d4",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
